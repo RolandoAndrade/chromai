@@ -2,6 +2,8 @@
 
 Este proyecto es el resultado de un trabajo práctico sobre Inteligencia Artificial y Machine Learning.
 
+![Video](video.mp4)
+
 ## Descripción
 
 ChromeAI es una IA que determina el color óptimo de fuente (claro u oscuro) a partir del color de fondo, mejorando la legibilidad en interfaces web. Utiliza técnicas de Machine Learning para predecir si el texto debe ser blanco o negro según el color de fondo proporcionado.
