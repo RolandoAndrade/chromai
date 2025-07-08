@@ -2,7 +2,7 @@
 
 Este proyecto es el resultado de un trabajo práctico sobre Inteligencia Artificial y Machine Learning.
 
-![Video](video.mp4)
+https://github.com/user-attachments/assets/6a1e4989-3c9e-404a-a4f7-48f45ddc7bf6
 
 ## Descripción
 
